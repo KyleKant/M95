@@ -1,0 +1,271 @@
+!_TAG_FILE_FORMAT	2	/extended format; --format=1 will not append ;" to lines/
+!_TAG_FILE_SORTED	1	/0=unsorted, 1=sorted, 2=foldcase/
+!_TAG_PROGRAM_AUTHOR	Darren Hiebert	/dhiebert@users.sourceforge.net/
+!_TAG_PROGRAM_NAME	Exuberant Ctags	//
+!_TAG_PROGRAM_URL	http://ctags.sourceforge.net	/official site/
+!_TAG_PROGRAM_VERSION	5.5.4	//
+!_TAG_REVISION_NAME	MCHPTags	//
+!_TAG_REVISION_VERSION	6.0.1	//
+ACKNOWLEDGE	D:\Do An Tot Nghiep\Code Module SIM M95\Code MPLabIDE 8.92\PIC24EP512GP806\M95\modbus_485.h	13;"	e	line:13	enum:_exception
+AUTH::15	D:\Do An Tot Nghiep\Code Module SIM M95\Code MPLabIDE 8.92\PIC24EP512GP806\M95\M95.h	20;"	d	line:20
+CONNACK::2	D:\Do An Tot Nghiep\Code Module SIM M95\Code MPLabIDE 8.92\PIC24EP512GP806\M95\M95.h	7;"	d	line:7
+CONNECT::1	D:\Do An Tot Nghiep\Code Module SIM M95\Code MPLabIDE 8.92\PIC24EP512GP806\M95\M95.h	6;"	d	line:6
+CONNECTED::1	D:\Do An Tot Nghiep\Code Module SIM M95\Code MPLabIDE 8.92\PIC24EP512GP806\M95\M95.h	36;"	d	line:36
+DISCONNECT::14	D:\Do An Tot Nghiep\Code Module SIM M95\Code MPLabIDE 8.92\PIC24EP512GP806\M95\M95.h	19;"	d	line:19
+DISCONNECTED::0	D:\Do An Tot Nghiep\Code Module SIM M95\Code MPLabIDE 8.92\PIC24EP512GP806\M95\M95.h	35;"	d	line:35
+DUP	D:\Do An Tot Nghiep\Code Module SIM M95\Code MPLabIDE 8.92\PIC24EP512GP806\M95\M95.c	167;"	l	line:167
+FUNC_DIAGNOSTICS	D:\Do An Tot Nghiep\Code Module SIM M95\Code MPLabIDE 8.92\PIC24EP512GP806\M95\modbus_485.h	21;"	e	line:21	enum:_function
+FUNC_GET_COMM_EVENT_COUNTER	D:\Do An Tot Nghiep\Code Module SIM M95\Code MPLabIDE 8.92\PIC24EP512GP806\M95\modbus_485.h	22;"	e	line:22	enum:_function
+FUNC_GET_COMM_EVENT_LOG	D:\Do An Tot Nghiep\Code Module SIM M95\Code MPLabIDE 8.92\PIC24EP512GP806\M95\modbus_485.h	22;"	e	line:22	enum:_function
+FUNC_MASK_WRITE_REGISTER	D:\Do An Tot Nghiep\Code Module SIM M95\Code MPLabIDE 8.92\PIC24EP512GP806\M95\modbus_485.h	25;"	e	line:25	enum:_function
+FUNC_READ_COILS	D:\Do An Tot Nghiep\Code Module SIM M95\Code MPLabIDE 8.92\PIC24EP512GP806\M95\modbus_485.h	18;"	e	line:18	enum:_function
+FUNC_READ_DISCRETE_INPUT	D:\Do An Tot Nghiep\Code Module SIM M95\Code MPLabIDE 8.92\PIC24EP512GP806\M95\modbus_485.h	18;"	e	line:18	enum:_function
+FUNC_READ_EXCEPTION_STATUS	D:\Do An Tot Nghiep\Code Module SIM M95\Code MPLabIDE 8.92\PIC24EP512GP806\M95\modbus_485.h	21;"	e	line:21	enum:_function
+FUNC_READ_FIFO_QUEUE	D:\Do An Tot Nghiep\Code Module SIM M95\Code MPLabIDE 8.92\PIC24EP512GP806\M95\modbus_485.h	26;"	e	line:26	enum:_function
+FUNC_READ_FILE_RECORD	D:\Do An Tot Nghiep\Code Module SIM M95\Code MPLabIDE 8.92\PIC24EP512GP806\M95\modbus_485.h	24;"	e	line:24	enum:_function
+FUNC_READ_HOLDING_REGISTERS	D:\Do An Tot Nghiep\Code Module SIM M95\Code MPLabIDE 8.92\PIC24EP512GP806\M95\modbus_485.h	19;"	e	line:19	enum:_function
+FUNC_READ_INPUT_REGISTERS	D:\Do An Tot Nghiep\Code Module SIM M95\Code MPLabIDE 8.92\PIC24EP512GP806\M95\modbus_485.h	19;"	e	line:19	enum:_function
+FUNC_READ_WRITE_MULTIPLE_REGISTERS	D:\Do An Tot Nghiep\Code Module SIM M95\Code MPLabIDE 8.92\PIC24EP512GP806\M95\modbus_485.h	26;"	e	line:26	enum:_function
+FUNC_REPORT_SLAVE_ID	D:\Do An Tot Nghiep\Code Module SIM M95\Code MPLabIDE 8.92\PIC24EP512GP806\M95\modbus_485.h	24;"	e	line:24	enum:_function
+FUNC_WRITE_FILE_RECORD	D:\Do An Tot Nghiep\Code Module SIM M95\Code MPLabIDE 8.92\PIC24EP512GP806\M95\modbus_485.h	25;"	e	line:25	enum:_function
+FUNC_WRITE_MULTIPLE_COILS	D:\Do An Tot Nghiep\Code Module SIM M95\Code MPLabIDE 8.92\PIC24EP512GP806\M95\modbus_485.h	23;"	e	line:23	enum:_function
+FUNC_WRITE_MULTIPLE_REGISTERS	D:\Do An Tot Nghiep\Code Module SIM M95\Code MPLabIDE 8.92\PIC24EP512GP806\M95\modbus_485.h	23;"	e	line:23	enum:_function
+FUNC_WRITE_SINGLE_COIL	D:\Do An Tot Nghiep\Code Module SIM M95\Code MPLabIDE 8.92\PIC24EP512GP806\M95\modbus_485.h	20;"	e	line:20	enum:_function
+FUNC_WRITE_SINGLE_REGISTER	D:\Do An Tot Nghiep\Code Module SIM M95\Code MPLabIDE 8.92\PIC24EP512GP806\M95\modbus_485.h	20;"	e	line:20	enum:_function
+GATEWAY_PATH_UNAVAILABLE	D:\Do An Tot Nghiep\Code Module SIM M95\Code MPLabIDE 8.92\PIC24EP512GP806\M95\modbus_485.h	14;"	e	line:14	enum:_exception
+GATEWAY_TARGET_NO_RESPONSE	D:\Do An Tot Nghiep\Code Module SIM M95\Code MPLabIDE 8.92\PIC24EP512GP806\M95\modbus_485.h	14;"	e	line:14	enum:_exception
+ILLEGAL_DATA_ADDRESS	D:\Do An Tot Nghiep\Code Module SIM M95\Code MPLabIDE 8.92\PIC24EP512GP806\M95\modbus_485.h	12;"	e	line:12	enum:_exception
+ILLEGAL_DATA_VALUE	D:\Do An Tot Nghiep\Code Module SIM M95\Code MPLabIDE 8.92\PIC24EP512GP806\M95\modbus_485.h	13;"	e	line:13	enum:_exception
+ILLEGAL_FUNCTION	D:\Do An Tot Nghiep\Code Module SIM M95\Code MPLabIDE 8.92\PIC24EP512GP806\M95\modbus_485.h	12;"	e	line:12	enum:_exception
+MEMORY_PARITY_ERROR	D:\Do An Tot Nghiep\Code Module SIM M95\Code MPLabIDE 8.92\PIC24EP512GP806\M95\modbus_485.h	14;"	e	line:14	enum:_exception
+MODBUS_GETADDY	D:\Do An Tot Nghiep\Code Module SIM M95\Code MPLabIDE 8.92\PIC24EP512GP806\M95\modbus_485.h	84;"	e	line:84
+MODBUS_GETDATA	D:\Do An Tot Nghiep\Code Module SIM M95\Code MPLabIDE 8.92\PIC24EP512GP806\M95\modbus_485.h	84;"	e	line:84
+MODBUS_GETDATA_TIMEOUT::40	D:\Do An Tot Nghiep\Code Module SIM M95\Code MPLabIDE 8.92\PIC24EP512GP806\M95\modbus_485.h	9;"	d	line:9
+MODBUS_GETFUNC	D:\Do An Tot Nghiep\Code Module SIM M95\Code MPLabIDE 8.92\PIC24EP512GP806\M95\modbus_485.h	84;"	e	line:84
+MODBUS_SERIAL_TIMEOUT::10000	D:\Do An Tot Nghiep\Code Module SIM M95\Code MPLabIDE 8.92\PIC24EP512GP806\M95\modbus_485.h	8;"	d	line:8
+NOACKNOWLEDGEMENT::255	D:\Do An Tot Nghiep\Code Module SIM M95\Code MPLabIDE 8.92\PIC24EP512GP806\M95\M95.h	37;"	d	line:37
+PINGREQ::12	D:\Do An Tot Nghiep\Code Module SIM M95\Code MPLabIDE 8.92\PIC24EP512GP806\M95\M95.h	17;"	d	line:17
+PINGRESP::13	D:\Do An Tot Nghiep\Code Module SIM M95\Code MPLabIDE 8.92\PIC24EP512GP806\M95\M95.h	18;"	d	line:18
+PUBACK::4	D:\Do An Tot Nghiep\Code Module SIM M95\Code MPLabIDE 8.92\PIC24EP512GP806\M95\M95.h	9;"	d	line:9
+PUBCOMP::7	D:\Do An Tot Nghiep\Code Module SIM M95\Code MPLabIDE 8.92\PIC24EP512GP806\M95\M95.h	12;"	d	line:12
+PUBLISH::3	D:\Do An Tot Nghiep\Code Module SIM M95\Code MPLabIDE 8.92\PIC24EP512GP806\M95\M95.h	8;"	d	line:8
+PUBREC::5	D:\Do An Tot Nghiep\Code Module SIM M95\Code MPLabIDE 8.92\PIC24EP512GP806\M95\M95.h	10;"	d	line:10
+PUBREL::6	D:\Do An Tot Nghiep\Code Module SIM M95\Code MPLabIDE 8.92\PIC24EP512GP806\M95\M95.h	11;"	d	line:11
+QoS	D:\Do An Tot Nghiep\Code Module SIM M95\Code MPLabIDE 8.92\PIC24EP512GP806\M95\M95.c	168;"	l	line:168
+QoSMask::6	D:\Do An Tot Nghiep\Code Module SIM M95\Code MPLabIDE 8.92\PIC24EP512GP806\M95\M95.h	23;"	d	line:23
+QoSScale::2	D:\Do An Tot Nghiep\Code Module SIM M95\Code MPLabIDE 8.92\PIC24EP512GP806\M95\M95.h	24;"	d	line:24
+RTD_CHANNEL_1	D:\Do An Tot Nghiep\Code Module SIM M95\Code MPLabIDE 8.92\PIC24EP512GP806\M95\modbus_485.h	85;"	e	line:85
+RTD_CHANNEL_2	D:\Do An Tot Nghiep\Code Module SIM M95\Code MPLabIDE 8.92\PIC24EP512GP806\M95\modbus_485.h	85;"	e	line:85
+RTD_CHANNEL_3	D:\Do An Tot Nghiep\Code Module SIM M95\Code MPLabIDE 8.92\PIC24EP512GP806\M95\modbus_485.h	85;"	e	line:85
+RTD_CHANNEL_4	D:\Do An Tot Nghiep\Code Module SIM M95\Code MPLabIDE 8.92\PIC24EP512GP806\M95\modbus_485.h	85;"	e	line:85
+Retain	D:\Do An Tot Nghiep\Code Module SIM M95\Code MPLabIDE 8.92\PIC24EP512GP806\M95\M95.c	169;"	l	line:169
+SLAVE_DEVICE_BUSY	D:\Do An Tot Nghiep\Code Module SIM M95\Code MPLabIDE 8.92\PIC24EP512GP806\M95\modbus_485.h	13;"	e	line:13	enum:_exception
+SLAVE_DEVICE_FAILURE	D:\Do An Tot Nghiep\Code Module SIM M95\Code MPLabIDE 8.92\PIC24EP512GP806\M95\modbus_485.h	13;"	e	line:13	enum:_exception
+SUBACK::9	D:\Do An Tot Nghiep\Code Module SIM M95\Code MPLabIDE 8.92\PIC24EP512GP806\M95\M95.h	14;"	d	line:14
+SUBSCRIBE::8	D:\Do An Tot Nghiep\Code Module SIM M95\Code MPLabIDE 8.92\PIC24EP512GP806\M95\M95.h	13;"	d	line:13
+TIMEOUT	D:\Do An Tot Nghiep\Code Module SIM M95\Code MPLabIDE 8.92\PIC24EP512GP806\M95\modbus_485.h	15;"	e	line:15	enum:_exception
+UART3struct	D:\Do An Tot Nghiep\Code Module SIM M95\Code MPLabIDE 8.92\PIC24EP512GP806\M95\M95.h	39;"	s	line:39
+UNSUBACK::11	D:\Do An Tot Nghiep\Code Module SIM M95\Code MPLabIDE 8.92\PIC24EP512GP806\M95\M95.h	16;"	d	line:16
+UNSUBSCRIBE::10	D:\Do An Tot Nghiep\Code Module SIM M95\Code MPLabIDE 8.92\PIC24EP512GP806\M95\M95.h	15;"	d	line:15
+__CONFIG_H_	D:\Do An Tot Nghiep\Code Module SIM M95\Code MPLabIDE 8.92\PIC24EP512GP806\M95\configPic.h	2;"	d	line:2
+__M95_H_	D:\Do An Tot Nghiep\Code Module SIM M95\Code MPLabIDE 8.92\PIC24EP512GP806\M95\M95.h	2;"	d	line:2
+__MODBUS_485_H_	D:\Do An Tot Nghiep\Code Module SIM M95\Code MPLabIDE 8.92\PIC24EP512GP806\M95\modbus_485.h	2;"	d	line:2
+_exception	D:\Do An Tot Nghiep\Code Module SIM M95\Code MPLabIDE 8.92\PIC24EP512GP806\M95\modbus_485.h	11;"	g	line:11
+_function	D:\Do An Tot Nghiep\Code Module SIM M95\Code MPLabIDE 8.92\PIC24EP512GP806\M95\modbus_485.h	17;"	g	line:17
+address	D:\Do An Tot Nghiep\Code Module SIM M95\Code MPLabIDE 8.92\PIC24EP512GP806\M95\modbus_485.h	30;"	m	line:30
+at	D:\Do An Tot Nghiep\Code Module SIM M95\Code MPLabIDE 8.92\PIC24EP512GP806\M95\M95.h	80;"	v	line:80
+autoConnect	D:\Do An Tot Nghiep\Code Module SIM M95\Code MPLabIDE 8.92\PIC24EP512GP806\M95\M95.c	594;"	f	line:594
+autoConnect	D:\Do An Tot Nghiep\Code Module SIM M95\Code MPLabIDE 8.92\PIC24EP512GP806\M95\M95.h	116;"	p	line:116	signature:()
+b	D:\Do An Tot Nghiep\Code Module SIM M95\Code MPLabIDE 8.92\PIC24EP512GP806\M95\modbus_485.h	38;"	m	line:38
+begin	D:\Do An Tot Nghiep\Code Module SIM M95\Code MPLabIDE 8.92\PIC24EP512GP806\M95\M95.c	739;"	f	line:739
+begin	D:\Do An Tot Nghiep\Code Module SIM M95\Code MPLabIDE 8.92\PIC24EP512GP806\M95\M95.h	115;"	p	line:115	signature:()
+c	D:\Do An Tot Nghiep\Code Module SIM M95\Code MPLabIDE 8.92\PIC24EP512GP806\M95\M95.c	14;"	l	line:14
+c_message	D:\Do An Tot Nghiep\Code Module SIM M95\Code MPLabIDE 8.92\PIC24EP512GP806\M95\M95.c	759;"	l	line:759
+c_msg	D:\Do An Tot Nghiep\Code Module SIM M95\Code MPLabIDE 8.92\PIC24EP512GP806\M95\M95.c	759;"	l	line:759
+c_topic	D:\Do An Tot Nghiep\Code Module SIM M95\Code MPLabIDE 8.92\PIC24EP512GP806\M95\M95.c	759;"	l	line:759
+caseSend	D:\Do An Tot Nghiep\Code Module SIM M95\Code MPLabIDE 8.92\PIC24EP512GP806\M95\modbus_485.h	99;"	v	line:99
+cchar	D:\Do An Tot Nghiep\Code Module SIM M95\Code MPLabIDE 8.92\PIC24EP512GP806\M95\M95.c	175;"	l	line:175
+cleanSession	D:\Do An Tot Nghiep\Code Module SIM M95\Code MPLabIDE 8.92\PIC24EP512GP806\M95\M95.h	50;"	m	line:50
+cleanSessionMask::2	D:\Do An Tot Nghiep\Code Module SIM M95\Code MPLabIDE 8.92\PIC24EP512GP806\M95\M95.h	33;"	d	line:33
+client	D:\Do An Tot Nghiep\Code Module SIM M95\Code MPLabIDE 8.92\PIC24EP512GP806\M95\M95.h	56;"	t	line:56
+commandAT	D:\Do An Tot Nghiep\Code Module SIM M95\Code MPLabIDE 8.92\PIC24EP512GP806\M95\M95.c	600;"	l	line:600
+connectReturnCode	D:\Do An Tot Nghiep\Code Module SIM M95\Code MPLabIDE 8.92\PIC24EP512GP806\M95\M95.c	342;"	f	line:342	signature:(unsigned int ack)
+connectReturnCode	D:\Do An Tot Nghiep\Code Module SIM M95\Code MPLabIDE 8.92\PIC24EP512GP806\M95\M95.h	125;"	p	line:125	signature:(unsigned int ack)
+connectionAcknowledgement	D:\Do An Tot Nghiep\Code Module SIM M95\Code MPLabIDE 8.92\PIC24EP512GP806\M95\M95.h	83;"	v	line:83
+crcHigh	D:\Do An Tot Nghiep\Code Module SIM M95\Code MPLabIDE 8.92\PIC24EP512GP806\M95\modbus_485.h	98;"	v	line:98
+crcLow	D:\Do An Tot Nghiep\Code Module SIM M95\Code MPLabIDE 8.92\PIC24EP512GP806\M95\modbus_485.h	98;"	v	line:98
+currentTicks	D:\Do An Tot Nghiep\Code Module SIM M95\Code MPLabIDE 8.92\PIC24EP512GP806\M95\M95.c	377;"	l	line:377
+currentTicks	D:\Do An Tot Nghiep\Code Module SIM M95\Code MPLabIDE 8.92\PIC24EP512GP806\M95\M95.c	392;"	l	line:392
+currentTicks	D:\Do An Tot Nghiep\Code Module SIM M95\Code MPLabIDE 8.92\PIC24EP512GP806\M95\M95.c	471;"	l	line:471
+currentTicks	D:\Do An Tot Nghiep\Code Module SIM M95\Code MPLabIDE 8.92\PIC24EP512GP806\M95\M95.c	599;"	l	line:599
+d	D:\Do An Tot Nghiep\Code Module SIM M95\Code MPLabIDE 8.92\PIC24EP512GP806\M95\modbus_485.h	39;"	m	line:39
+data	D:\Do An Tot Nghiep\Code Module SIM M95\Code MPLabIDE 8.92\PIC24EP512GP806\M95\modbus_485.h	34;"	m	line:34
+dataHigh	D:\Do An Tot Nghiep\Code Module SIM M95\Code MPLabIDE 8.92\PIC24EP512GP806\M95\modbus_485.h	103;"	v	line:103
+dataLed::pin_e7	D:\Do An Tot Nghiep\Code Module SIM M95\Code MPLabIDE 8.92\PIC24EP512GP806\M95\configPic.h	27;"	d	line:27
+dataLow	D:\Do An Tot Nghiep\Code Module SIM M95\Code MPLabIDE 8.92\PIC24EP512GP806\M95\modbus_485.h	103;"	v	line:103
+delay1	D:\Do An Tot Nghiep\Code Module SIM M95\Code MPLabIDE 8.92\PIC24EP512GP806\M95\M95.h	104;"	v	line:104
+delay2	D:\Do An Tot Nghiep\Code Module SIM M95\Code MPLabIDE 8.92\PIC24EP512GP806\M95\M95.h	104;"	v	line:104
+dupMask::8	D:\Do An Tot Nghiep\Code Module SIM M95\Code MPLabIDE 8.92\PIC24EP512GP806\M95\M95.h	22;"	d	line:22
+error	D:\Do An Tot Nghiep\Code Module SIM M95\Code MPLabIDE 8.92\PIC24EP512GP806\M95\modbus_485.h	33;"	m	line:33
+exception	D:\Do An Tot Nghiep\Code Module SIM M95\Code MPLabIDE 8.92\PIC24EP512GP806\M95\modbus_485.h	16;"	t	line:16
+finishString	D:\Do An Tot Nghiep\Code Module SIM M95\Code MPLabIDE 8.92\PIC24EP512GP806\M95\M95.h	85;"	v	line:85
+func	D:\Do An Tot Nghiep\Code Module SIM M95\Code MPLabIDE 8.92\PIC24EP512GP806\M95\modbus_485.h	32;"	m	line:32
+function	D:\Do An Tot Nghiep\Code Module SIM M95\Code MPLabIDE 8.92\PIC24EP512GP806\M95\modbus_485.h	27;"	t	line:27
+generateMessageID	D:\Do An Tot Nghiep\Code Module SIM M95\Code MPLabIDE 8.92\PIC24EP512GP806\M95\M95.c	538;"	f	line:538
+gsmResponse	D:\Do An Tot Nghiep\Code Module SIM M95\Code MPLabIDE 8.92\PIC24EP512GP806\M95\M95.h	92;"	v	line:92
+gsmResponseFlag	D:\Do An Tot Nghiep\Code Module SIM M95\Code MPLabIDE 8.92\PIC24EP512GP806\M95\M95.h	93;"	v	line:93
+gsmSendResponse	D:\Do An Tot Nghiep\Code Module SIM M95\Code MPLabIDE 8.92\PIC24EP512GP806\M95\M95.h	97;"	v	line:97
+inchar	D:\Do An Tot Nghiep\Code Module SIM M95\Code MPLabIDE 8.92\PIC24EP512GP806\M95\M95.c	81;"	l	line:81
+index	D:\Do An Tot Nghiep\Code Module SIM M95\Code MPLabIDE 8.92\PIC24EP512GP806\M95\M95.h	61;"	v	line:61
+inputString	D:\Do An Tot Nghiep\Code Module SIM M95\Code MPLabIDE 8.92\PIC24EP512GP806\M95\M95.h	60;"	v	line:60
+interruptReceiveModbus	D:\Do An Tot Nghiep\Code Module SIM M95\Code MPLabIDE 8.92\PIC24EP512GP806\M95\M95.c	13;"	f	line:13
+iteraction	D:\Do An Tot Nghiep\Code Module SIM M95\Code MPLabIDE 8.92\PIC24EP512GP806\M95\M95.c	80;"	l	line:80
+json	D:\Do An Tot Nghiep\Code Module SIM M95\Code MPLabIDE 8.92\PIC24EP512GP806\M95\M95.h	75;"	v	line:75
+keepAliveTimeout	D:\Do An Tot Nghiep\Code Module SIM M95\Code MPLabIDE 8.92\PIC24EP512GP806\M95\M95.h	100;"	v	line:100
+lassMessageID	D:\Do An Tot Nghiep\Code Module SIM M95\Code MPLabIDE 8.92\PIC24EP512GP806\M95\M95.h	98;"	v	line:98
+len	D:\Do An Tot Nghiep\Code Module SIM M95\Code MPLabIDE 8.92\PIC24EP512GP806\M95\M95.h	88;"	v	line:88
+len	D:\Do An Tot Nghiep\Code Module SIM M95\Code MPLabIDE 8.92\PIC24EP512GP806\M95\modbus_485.h	31;"	m	line:31
+lengthFlag	D:\Do An Tot Nghiep\Code Module SIM M95\Code MPLabIDE 8.92\PIC24EP512GP806\M95\M95.c	409;"	l	line:409
+lengthLocal	D:\Do An Tot Nghiep\Code Module SIM M95\Code MPLabIDE 8.92\PIC24EP512GP806\M95\M95.h	89;"	v	line:89
+lengthString	D:\Do An Tot Nghiep\Code Module SIM M95\Code MPLabIDE 8.92\PIC24EP512GP806\M95\M95.c	425;"	l	line:425
+linkLed::pin_e5	D:\Do An Tot Nghiep\Code Module SIM M95\Code MPLabIDE 8.92\PIC24EP512GP806\M95\configPic.h	25;"	d	line:25
+localLength	D:\Do An Tot Nghiep\Code Module SIM M95\Code MPLabIDE 8.92\PIC24EP512GP806\M95\M95.c	498;"	l	line:498
+localLength	D:\Do An Tot Nghiep\Code Module SIM M95\Code MPLabIDE 8.92\PIC24EP512GP806\M95\M95.c	510;"	l	line:510
+localLength	D:\Do An Tot Nghiep\Code Module SIM M95\Code MPLabIDE 8.92\PIC24EP512GP806\M95\M95.c	521;"	l	line:521
+localLength	D:\Do An Tot Nghiep\Code Module SIM M95\Code MPLabIDE 8.92\PIC24EP512GP806\M95\M95.c	558;"	l	line:558
+mIndex	D:\Do An Tot Nghiep\Code Module SIM M95\Code MPLabIDE 8.92\PIC24EP512GP806\M95\M95.c	838;"	l	line:838
+main	D:\Do An Tot Nghiep\Code Module SIM M95\Code MPLabIDE 8.92\PIC24EP512GP806\M95\M95.c	929;"	f	line:929
+message	D:\Do An Tot Nghiep\Code Module SIM M95\Code MPLabIDE 8.92\PIC24EP512GP806\M95\M95.h	73;"	v	line:73
+messageFlag	D:\Do An Tot Nghiep\Code Module SIM M95\Code MPLabIDE 8.92\PIC24EP512GP806\M95\M95.h	70;"	v	line:70
+messageID	D:\Do An Tot Nghiep\Code Module SIM M95\Code MPLabIDE 8.92\PIC24EP512GP806\M95\M95.c	251;"	l	line:251
+messageID	D:\Do An Tot Nghiep\Code Module SIM M95\Code MPLabIDE 8.92\PIC24EP512GP806\M95\M95.c	309;"	l	line:309
+messageID	D:\Do An Tot Nghiep\Code Module SIM M95\Code MPLabIDE 8.92\PIC24EP512GP806\M95\M95.c	318;"	l	line:318
+messageLength	D:\Do An Tot Nghiep\Code Module SIM M95\Code MPLabIDE 8.92\PIC24EP512GP806\M95\M95.h	90;"	v	line:90
+messageProcessing	D:\Do An Tot Nghiep\Code Module SIM M95\Code MPLabIDE 8.92\PIC24EP512GP806\M95\M95.c	757;"	f	line:757
+messageStart	D:\Do An Tot Nghiep\Code Module SIM M95\Code MPLabIDE 8.92\PIC24EP512GP806\M95\M95.c	250;"	l	line:250
+modbusCalcCrc	D:\Do An Tot Nghiep\Code Module SIM M95\Code MPLabIDE 8.92\PIC24EP512GP806\M95\M95.c	837;"	f	line:837	signature:(char data)
+modbusCalcCrc	D:\Do An Tot Nghiep\Code Module SIM M95\Code MPLabIDE 8.92\PIC24EP512GP806\M95\modbus_485.h	88;"	p	line:88	signature:(char data)
+modbusCheckTimeout	D:\Do An Tot Nghiep\Code Module SIM M95\Code MPLabIDE 8.92\PIC24EP512GP806\M95\M95.c	810;"	f	line:810
+modbusEnableTimeout	D:\Do An Tot Nghiep\Code Module SIM M95\Code MPLabIDE 8.92\PIC24EP512GP806\M95\M95.c	791;"	f	line:791	signature:(int1 enable)
+modbusEnableTimeout	D:\Do An Tot Nghiep\Code Module SIM M95\Code MPLabIDE 8.92\PIC24EP512GP806\M95\modbus_485.h	89;"	p	line:89	signature:(int1 enable)
+modbusQuery	D:\Do An Tot Nghiep\Code Module SIM M95\Code MPLabIDE 8.92\PIC24EP512GP806\M95\modbus_485.h	96;"	v	line:96
+modbusReadHoldingRegRsp	D:\Do An Tot Nghiep\Code Module SIM M95\Code MPLabIDE 8.92\PIC24EP512GP806\M95\M95.c	844;"	f	line:844	signature:(unsigned int8 address, unsigned int8 func, unsigned int16 startAddress, unsigned int16 quality)
+modbusResponseOK	D:\Do An Tot Nghiep\Code Module SIM M95\Code MPLabIDE 8.92\PIC24EP512GP806\M95\modbus_485.h	101;"	v	line:101
+modbusRx	D:\Do An Tot Nghiep\Code Module SIM M95\Code MPLabIDE 8.92\PIC24EP512GP806\M95\modbus_485.h	35;"	v	line:35
+modbusSerialCrc	D:\Do An Tot Nghiep\Code Module SIM M95\Code MPLabIDE 8.92\PIC24EP512GP806\M95\modbus_485.h	40;"	v	line:40
+modbusSerialNew	D:\Do An Tot Nghiep\Code Module SIM M95\Code MPLabIDE 8.92\PIC24EP512GP806\M95\modbus_485.h	94;"	v	line:94
+modbusSerialState	D:\Do An Tot Nghiep\Code Module SIM M95\Code MPLabIDE 8.92\PIC24EP512GP806\M95\modbus_485.h	84;"	v	line:84
+modbusSerialWait	D:\Do An Tot Nghiep\Code Module SIM M95\Code MPLabIDE 8.92\PIC24EP512GP806\M95\modbus_485.h	97;"	v	line:97
+modbusSerialWaitResponse::{	D:\Do An Tot Nghiep\Code Module SIM M95\Code MPLabIDE 8.92\PIC24EP512GP806\M95\M95.c	69;"	d	line:69	file:
+modbusTimeoutEnable	D:\Do An Tot Nghiep\Code Module SIM M95\Code MPLabIDE 8.92\PIC24EP512GP806\M95\modbus_485.h	92;"	v	line:92
+modbusTimeoutEnabled	D:\Do An Tot Nghiep\Code Module SIM M95\Code MPLabIDE 8.92\PIC24EP512GP806\M95\modbus_485.h	93;"	v	line:93
+modbusTimeoutNow	D:\Do An Tot Nghiep\Code Module SIM M95\Code MPLabIDE 8.92\PIC24EP512GP806\M95\M95.c	796;"	f	line:796
+modbusTimeoutOK	D:\Do An Tot Nghiep\Code Module SIM M95\Code MPLabIDE 8.92\PIC24EP512GP806\M95\modbus_485.h	95;"	v	line:95
+modbus_auchCRCHi	D:\Do An Tot Nghiep\Code Module SIM M95\Code MPLabIDE 8.92\PIC24EP512GP806\M95\modbus_485.h	42;"	v	line:42
+modbus_auchCRCLo	D:\Do An Tot Nghiep\Code Module SIM M95\Code MPLabIDE 8.92\PIC24EP512GP806\M95\modbus_485.h	63;"	v	line:63
+modbus_kbhit	D:\Do An Tot Nghiep\Code Module SIM M95\Code MPLabIDE 8.92\PIC24EP512GP806\M95\M95.c	817;"	f	line:817
+modemStatus	D:\Do An Tot Nghiep\Code Module SIM M95\Code MPLabIDE 8.92\PIC24EP512GP806\M95\M95.h	94;"	v	line:94
+mqttAvailable	D:\Do An Tot Nghiep\Code Module SIM M95\Code MPLabIDE 8.92\PIC24EP512GP806\M95\M95.c	787;"	f	line:787
+mqttAvailable	D:\Do An Tot Nghiep\Code Module SIM M95\Code MPLabIDE 8.92\PIC24EP512GP806\M95\M95.h	118;"	p	line:118	signature:()
+mqttClient	D:\Do An Tot Nghiep\Code Module SIM M95\Code MPLabIDE 8.92\PIC24EP512GP806\M95\M95.h	58;"	v	line:58
+mqttClientID	D:\Do An Tot Nghiep\Code Module SIM M95\Code MPLabIDE 8.92\PIC24EP512GP806\M95\M95.h	45;"	m	line:45
+mqttConect	D:\Do An Tot Nghiep\Code Module SIM M95\Code MPLabIDE 8.92\PIC24EP512GP806\M95\M95.h	117;"	p	line:117	signature:(client *mqttClient)
+mqttConnect	D:\Do An Tot Nghiep\Code Module SIM M95\Code MPLabIDE 8.92\PIC24EP512GP806\M95\M95.c	548;"	f	line:548	signature:(client *mqttClient)
+mqttControlPacketType	D:\Do An Tot Nghiep\Code Module SIM M95\Code MPLabIDE 8.92\PIC24EP512GP806\M95\M95.c	165;"	l	line:165
+mqttDisconnect	D:\Do An Tot Nghiep\Code Module SIM M95\Code MPLabIDE 8.92\PIC24EP512GP806\M95\M95.c	488;"	f	line:488
+mqttFlag	D:\Do An Tot Nghiep\Code Module SIM M95\Code MPLabIDE 8.92\PIC24EP512GP806\M95\M95.h	86;"	v	line:86
+mqttHost	D:\Do An Tot Nghiep\Code Module SIM M95\Code MPLabIDE 8.92\PIC24EP512GP806\M95\M95.h	77;"	v	line:77
+mqttPort	D:\Do An Tot Nghiep\Code Module SIM M95\Code MPLabIDE 8.92\PIC24EP512GP806\M95\M95.h	78;"	v	line:78
+mqttProcessing	D:\Do An Tot Nghiep\Code Module SIM M95\Code MPLabIDE 8.92\PIC24EP512GP806\M95\M95.c	745;"	f	line:745
+mqttProcessing	D:\Do An Tot Nghiep\Code Module SIM M95\Code MPLabIDE 8.92\PIC24EP512GP806\M95\M95.h	114;"	p	line:114	signature:()
+mqttPublish	D:\Do An Tot Nghiep\Code Module SIM M95\Code MPLabIDE 8.92\PIC24EP512GP806\M95\M95.c	518;"	f	line:518	signature:(unsigned int1 DUP, unsigned int8 QoS, unsigned int1 retain, unsigned int16 messageID, char *topic, char *message)
+mqttQuery	D:\Do An Tot Nghiep\Code Module SIM M95\Code MPLabIDE 8.92\PIC24EP512GP806\M95\M95.h	66;"	v	line:66
+mqttSubscribe	D:\Do An Tot Nghiep\Code Module SIM M95\Code MPLabIDE 8.92\PIC24EP512GP806\M95\M95.c	495;"	f	line:495	signature:(unsigned int1 DUP, unsigned int16 messageID, char *subtopic, unsigned int8 subQoS)
+mqttUnsubscribe	D:\Do An Tot Nghiep\Code Module SIM M95\Code MPLabIDE 8.92\PIC24EP512GP806\M95\M95.c	507;"	f	line:507	signature:(unsigned int1 DUP, unsigned int16 messageID, char *topic)
+multiplier	D:\Do An Tot Nghiep\Code Module SIM M95\Code MPLabIDE 8.92\PIC24EP512GP806\M95\M95.c	174;"	l	line:174
+nextLengthByte	D:\Do An Tot Nghiep\Code Module SIM M95\Code MPLabIDE 8.92\PIC24EP512GP806\M95\M95.c	171;"	l	line:171
+numOfChannelRTD	D:\Do An Tot Nghiep\Code Module SIM M95\Code MPLabIDE 8.92\PIC24EP512GP806\M95\modbus_485.h	85;"	v	line:85
+numOfReg	D:\Do An Tot Nghiep\Code Module SIM M95\Code MPLabIDE 8.92\PIC24EP512GP806\M95\modbus_485.h	104;"	v	line:104
+packetID	D:\Do An Tot Nghiep\Code Module SIM M95\Code MPLabIDE 8.92\PIC24EP512GP806\M95\M95.c	280;"	l	line:280
+packetID	D:\Do An Tot Nghiep\Code Module SIM M95\Code MPLabIDE 8.92\PIC24EP512GP806\M95\M95.c	286;"	l	line:286
+packetID	D:\Do An Tot Nghiep\Code Module SIM M95\Code MPLabIDE 8.92\PIC24EP512GP806\M95\M95.c	292;"	l	line:292
+packetID	D:\Do An Tot Nghiep\Code Module SIM M95\Code MPLabIDE 8.92\PIC24EP512GP806\M95\M95.c	301;"	l	line:301
+packetType	D:\Do An Tot Nghiep\Code Module SIM M95\Code MPLabIDE 8.92\PIC24EP512GP806\M95\M95.h	102;"	v	line:102
+password	D:\Do An Tot Nghiep\Code Module SIM M95\Code MPLabIDE 8.92\PIC24EP512GP806\M95\M95.h	48;"	m	line:48
+passwordFlag	D:\Do An Tot Nghiep\Code Module SIM M95\Code MPLabIDE 8.92\PIC24EP512GP806\M95\M95.h	46;"	m	line:46
+passwordFlagMask::64	D:\Do An Tot Nghiep\Code Module SIM M95\Code MPLabIDE 8.92\PIC24EP512GP806\M95\M95.h	28;"	d	line:28
+pinControl485::pin_f3	D:\Do An Tot Nghiep\Code Module SIM M95\Code MPLabIDE 8.92\PIC24EP512GP806\M95\configPic.h	29;"	d	line:29
+pingFlag	D:\Do An Tot Nghiep\Code Module SIM M95\Code MPLabIDE 8.92\PIC24EP512GP806\M95\M95.h	87;"	v	line:87
+pingPrevTicks	D:\Do An Tot Nghiep\Code Module SIM M95\Code MPLabIDE 8.92\PIC24EP512GP806\M95\M95.h	101;"	v	line:101
+pingRequest	D:\Do An Tot Nghiep\Code Module SIM M95\Code MPLabIDE 8.92\PIC24EP512GP806\M95\M95.c	470;"	f	line:470
+pingRequest	D:\Do An Tot Nghiep\Code Module SIM M95\Code MPLabIDE 8.92\PIC24EP512GP806\M95\M95.h	123;"	p	line:123	signature:()
+pingResponse	D:\Do An Tot Nghiep\Code Module SIM M95\Code MPLabIDE 8.92\PIC24EP512GP806\M95\M95.c	482;"	f	line:482
+pingResponse	D:\Do An Tot Nghiep\Code Module SIM M95\Code MPLabIDE 8.92\PIC24EP512GP806\M95\M95.h	124;"	p	line:124	signature:()
+pkey::pin_e1	D:\Do An Tot Nghiep\Code Module SIM M95\Code MPLabIDE 8.92\PIC24EP512GP806\M95\configPic.h	24;"	d	line:24
+powerOnM95	D:\Do An Tot Nghiep\Code Module SIM M95\Code MPLabIDE 8.92\PIC24EP512GP806\M95\M95.c	70;"	f	line:70
+powerOnM95	D:\Do An Tot Nghiep\Code Module SIM M95\Code MPLabIDE 8.92\PIC24EP512GP806\M95\M95.h	109;"	p	line:109	signature:()
+protocolName	D:\Do An Tot Nghiep\Code Module SIM M95\Code MPLabIDE 8.92\PIC24EP512GP806\M95\M95.c	557;"	l	line:557
+protocolVersion	D:\Do An Tot Nghiep\Code Module SIM M95\Code MPLabIDE 8.92\PIC24EP512GP806\M95\M95.h	91;"	v	line:91
+pubTopic	D:\Do An Tot Nghiep\Code Module SIM M95\Code MPLabIDE 8.92\PIC24EP512GP806\M95\M95.h	72;"	v	line:72
+pubTopicFlag	D:\Do An Tot Nghiep\Code Module SIM M95\Code MPLabIDE 8.92\PIC24EP512GP806\M95\M95.h	69;"	v	line:69
+publishACK	D:\Do An Tot Nghiep\Code Module SIM M95\Code MPLabIDE 8.92\PIC24EP512GP806\M95\M95.c	434;"	f	line:434	signature:(unsigned int16 messageID)
+publishACK	D:\Do An Tot Nghiep\Code Module SIM M95\Code MPLabIDE 8.92\PIC24EP512GP806\M95\M95.h	119;"	p	line:119	signature:(unsigned int16 messageID)
+publishCOMP	D:\Do An Tot Nghiep\Code Module SIM M95\Code MPLabIDE 8.92\PIC24EP512GP806\M95\M95.c	461;"	f	line:461	signature:(unsigned int16 messageID)
+publishCOMP	D:\Do An Tot Nghiep\Code Module SIM M95\Code MPLabIDE 8.92\PIC24EP512GP806\M95\M95.h	122;"	p	line:122	signature:(unsigned int16 messageID)
+publishIndex	D:\Do An Tot Nghiep\Code Module SIM M95\Code MPLabIDE 8.92\PIC24EP512GP806\M95\M95.c	240;"	l	line:240
+publishREC	D:\Do An Tot Nghiep\Code Module SIM M95\Code MPLabIDE 8.92\PIC24EP512GP806\M95\M95.c	443;"	f	line:443	signature:(unsigned int16 messageID)
+publishREC	D:\Do An Tot Nghiep\Code Module SIM M95\Code MPLabIDE 8.92\PIC24EP512GP806\M95\M95.h	120;"	p	line:120	signature:(unsigned int16 messageID)
+publishREL	D:\Do An Tot Nghiep\Code Module SIM M95\Code MPLabIDE 8.92\PIC24EP512GP806\M95\M95.c	452;"	f	line:452	signature:(unsigned int1 DUP, unsigned int16 messageID)
+publishREL	D:\Do An Tot Nghiep\Code Module SIM M95\Code MPLabIDE 8.92\PIC24EP512GP806\M95\M95.h	121;"	p	line:121	signature:(unsigned int1 DUP, unsigned int16 messageID)
+pwrLed::pin_e6	D:\Do An Tot Nghiep\Code Module SIM M95\Code MPLabIDE 8.92\PIC24EP512GP806\M95\configPic.h	26;"	d	line:26
+qualityHi	D:\Do An Tot Nghiep\Code Module SIM M95\Code MPLabIDE 8.92\PIC24EP512GP806\M95\M95.c	846;"	l	line:846
+qualityLo	D:\Do An Tot Nghiep\Code Module SIM M95\Code MPLabIDE 8.92\PIC24EP512GP806\M95\M95.c	846;"	l	line:846
+reconnectFlag	D:\Do An Tot Nghiep\Code Module SIM M95\Code MPLabIDE 8.92\PIC24EP512GP806\M95\M95.h	64;"	v	line:64
+reply	D:\Do An Tot Nghiep\Code Module SIM M95\Code MPLabIDE 8.92\PIC24EP512GP806\M95\M95.h	106;"	v	line:106
+retainMask::1	D:\Do An Tot Nghiep\Code Module SIM M95\Code MPLabIDE 8.92\PIC24EP512GP806\M95\M95.h	25;"	d	line:25
+rxDataString	D:\Do An Tot Nghiep\Code Module SIM M95\Code MPLabIDE 8.92\PIC24EP512GP806\M95\M95.h	40;"	m	line:40	struct:UART3struct
+rxPointer	D:\Do An Tot Nghiep\Code Module SIM M95\Code MPLabIDE 8.92\PIC24EP512GP806\M95\M95.h	41;"	m	line:41	struct:UART3struct
+sendAT	D:\Do An Tot Nghiep\Code Module SIM M95\Code MPLabIDE 8.92\PIC24EP512GP806\M95\M95.c	376;"	f	line:376	signature:(char * command, unsigned long waitms)
+sendAT	D:\Do An Tot Nghiep\Code Module SIM M95\Code MPLabIDE 8.92\PIC24EP512GP806\M95\M95.h	111;"	p	line:111	signature:(char * command, unsigned long waitms)
+sendATResponse	D:\Do An Tot Nghiep\Code Module SIM M95\Code MPLabIDE 8.92\PIC24EP512GP806\M95\M95.c	391;"	f	line:391	signature:(char *command, char *responseStr, unsigned long waitms)
+sendATResponse	D:\Do An Tot Nghiep\Code Module SIM M95\Code MPLabIDE 8.92\PIC24EP512GP806\M95\M95.h	112;"	p	line:112	signature:(char *command, char *responseStr, unsigned long waitms)
+sendLength	D:\Do An Tot Nghiep\Code Module SIM M95\Code MPLabIDE 8.92\PIC24EP512GP806\M95\M95.c	408;"	f	line:408	signature:(unsigned long length)
+sendMessageComplete	D:\Do An Tot Nghiep\Code Module SIM M95\Code MPLabIDE 8.92\PIC24EP512GP806\M95\modbus_485.h	100;"	v	line:100
+sendUTF8String	D:\Do An Tot Nghiep\Code Module SIM M95\Code MPLabIDE 8.92\PIC24EP512GP806\M95\M95.c	424;"	f	line:424	signature:(char *string)
+serialEvent	D:\Do An Tot Nghiep\Code Module SIM M95\Code MPLabIDE 8.92\PIC24EP512GP806\M95\M95.c	79;"	f	line:79
+serialEvent	D:\Do An Tot Nghiep\Code Module SIM M95\Code MPLabIDE 8.92\PIC24EP512GP806\M95\M95.h	110;"	p	line:110	signature:()
+slaveID::1	D:\Do An Tot Nghiep\Code Module SIM M95\Code MPLabIDE 8.92\PIC24EP512GP806\M95\modbus_485.h	6;"	d	line:6
+stack	D:\Do An Tot Nghiep\Code Module SIM M95\Code MPLabIDE 8.92\PIC24EP512GP806\M95\modbus_485.h	110;"	v	line:110
+startAddressHi	D:\Do An Tot Nghiep\Code Module SIM M95\Code MPLabIDE 8.92\PIC24EP512GP806\M95\M95.c	845;"	l	line:845
+startAddressLo	D:\Do An Tot Nghiep\Code Module SIM M95\Code MPLabIDE 8.92\PIC24EP512GP806\M95\M95.c	845;"	l	line:845
+stringComplete	D:\Do An Tot Nghiep\Code Module SIM M95\Code MPLabIDE 8.92\PIC24EP512GP806\M95\M95.h	62;"	v	line:62
+strrep	D:\Do An Tot Nghiep\Code Module SIM M95\Code MPLabIDE 8.92\PIC24EP512GP806\M95\M95.c	601;"	l	line:601
+strresponse	D:\Do An Tot Nghiep\Code Module SIM M95\Code MPLabIDE 8.92\PIC24EP512GP806\M95\M95.h	81;"	v	line:81
+subTopic	D:\Do An Tot Nghiep\Code Module SIM M95\Code MPLabIDE 8.92\PIC24EP512GP806\M95\M95.h	71;"	v	line:71
+subTopicFlag	D:\Do An Tot Nghiep\Code Module SIM M95\Code MPLabIDE 8.92\PIC24EP512GP806\M95\M95.h	68;"	v	line:68
+t_message	D:\Do An Tot Nghiep\Code Module SIM M95\Code MPLabIDE 8.92\PIC24EP512GP806\M95\M95.h	108;"	v	line:108
+t_topic	D:\Do An Tot Nghiep\Code Module SIM M95\Code MPLabIDE 8.92\PIC24EP512GP806\M95\M95.h	107;"	v	line:107
+tam	D:\Do An Tot Nghiep\Code Module SIM M95\Code MPLabIDE 8.92\PIC24EP512GP806\M95\modbus_485.h	108;"	v	line:108
+tcpATErrorCount	D:\Do An Tot Nghiep\Code Module SIM M95\Code MPLabIDE 8.92\PIC24EP512GP806\M95\M95.h	99;"	v	line:99
+tcpFlag	D:\Do An Tot Nghiep\Code Module SIM M95\Code MPLabIDE 8.92\PIC24EP512GP806\M95\M95.h	63;"	v	line:63
+tcpInit	D:\Do An Tot Nghiep\Code Module SIM M95\Code MPLabIDE 8.92\PIC24EP512GP806\M95\M95.c	598;"	f	line:598
+tcpInit	D:\Do An Tot Nghiep\Code Module SIM M95\Code MPLabIDE 8.92\PIC24EP512GP806\M95\M95.h	113;"	p	line:113	signature:()
+tcpStatus	D:\Do An Tot Nghiep\Code Module SIM M95\Code MPLabIDE 8.92\PIC24EP512GP806\M95\M95.h	95;"	v	line:95
+tcpStatusPrev	D:\Do An Tot Nghiep\Code Module SIM M95\Code MPLabIDE 8.92\PIC24EP512GP806\M95\M95.h	96;"	v	line:96
+temp	D:\Do An Tot Nghiep\Code Module SIM M95\Code MPLabIDE 8.92\PIC24EP512GP806\M95\M95.c	10;"	v	line:10
+temp	D:\Do An Tot Nghiep\Code Module SIM M95\Code MPLabIDE 8.92\PIC24EP512GP806\M95\M95.c	176;"	l	line:176
+time	D:\Do An Tot Nghiep\Code Module SIM M95\Code MPLabIDE 8.92\PIC24EP512GP806\M95\modbus_485.h	106;"	v	line:106
+topicLength	D:\Do An Tot Nghiep\Code Module SIM M95\Code MPLabIDE 8.92\PIC24EP512GP806\M95\M95.c	233;"	l	line:233
+uart3	D:\Do An Tot Nghiep\Code Module SIM M95\Code MPLabIDE 8.92\PIC24EP512GP806\M95\M95.h	42;"	v	line:42
+userName	D:\Do An Tot Nghiep\Code Module SIM M95\Code MPLabIDE 8.92\PIC24EP512GP806\M95\M95.h	49;"	m	line:49
+userNameFlag	D:\Do An Tot Nghiep\Code Module SIM M95\Code MPLabIDE 8.92\PIC24EP512GP806\M95\M95.h	47;"	m	line:47
+userNameFlagMask::128	D:\Do An Tot Nghiep\Code Module SIM M95\Code MPLabIDE 8.92\PIC24EP512GP806\M95\M95.h	27;"	d	line:27
+willFlag	D:\Do An Tot Nghiep\Code Module SIM M95\Code MPLabIDE 8.92\PIC24EP512GP806\M95\M95.h	51;"	m	line:51
+willFlagMask::4	D:\Do An Tot Nghiep\Code Module SIM M95\Code MPLabIDE 8.92\PIC24EP512GP806\M95\M95.h	32;"	d	line:32
+willMessage	D:\Do An Tot Nghiep\Code Module SIM M95\Code MPLabIDE 8.92\PIC24EP512GP806\M95\M95.h	55;"	m	line:55
+willQoS	D:\Do An Tot Nghiep\Code Module SIM M95\Code MPLabIDE 8.92\PIC24EP512GP806\M95\M95.h	52;"	m	line:52
+willQoSMask::24	D:\Do An Tot Nghiep\Code Module SIM M95\Code MPLabIDE 8.92\PIC24EP512GP806\M95\M95.h	30;"	d	line:30
+willQoSScale::8	D:\Do An Tot Nghiep\Code Module SIM M95\Code MPLabIDE 8.92\PIC24EP512GP806\M95\M95.h	31;"	d	line:31
+willRetain	D:\Do An Tot Nghiep\Code Module SIM M95\Code MPLabIDE 8.92\PIC24EP512GP806\M95\M95.h	53;"	m	line:53
+willRetainMask::32	D:\Do An Tot Nghiep\Code Module SIM M95\Code MPLabIDE 8.92\PIC24EP512GP806\M95\M95.h	29;"	d	line:29
+willTopic	D:\Do An Tot Nghiep\Code Module SIM M95\Code MPLabIDE 8.92\PIC24EP512GP806\M95\M95.h	54;"	m	line:54

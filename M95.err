@@ -1,0 +1,34 @@
+--- Info 300 "D:\Do An Tot Nghiep\Code Module SIM M95\Code MPLabIDE 8.92\PIC24EP512GP806\M95\configPic.h" Line 20(1,1): More info:   Timer 1 tick time is 819.20 us
+--- Info 300 "D:\Do An Tot Nghiep\Code Module SIM M95\Code MPLabIDE 8.92\PIC24EP512GP806\M95\configPic.h" Line 21(1,1): More info:   Timer 2 tick time is 819.20 us
+>>> Warning 225 "D:\Do An Tot Nghiep\Code Module SIM M95\Code MPLabIDE 8.92\PIC24EP512GP806\M95\configPic.h" Line 21(1,1): Duplicate #define  TICKS_PER_SECOND has been redefined
+--- Info 300 "D:\Do An Tot Nghiep\Code Module SIM M95\Code MPLabIDE 8.92\PIC24EP512GP806\M95\configPic.h" Line 22(1,1): More info:   Timer 3 tick time is 102.40 us
+>>> Warning 225 "D:\Do An Tot Nghiep\Code Module SIM M95\Code MPLabIDE 8.92\PIC24EP512GP806\M95\configPic.h" Line 22(1,1): Duplicate #define  TICKS_PER_SECOND has been redefined
+>>> Warning 225 "D:\Do An Tot Nghiep\Code Module SIM M95\Code MPLabIDE 8.92\PIC24EP512GP806\M95\configPic.h" Line 22(1,1): Duplicate #define  TICKS_PER_SECOND has been redefined
+>>> Warning 208 "D:\Do An Tot Nghiep\Code Module SIM M95\Code MPLabIDE 8.92\PIC24EP512GP806\M95\M95.h" Line 110(6,17): Function not void and does not return a value  serialEvent
+>>> Warning 208 "D:\Do An Tot Nghiep\Code Module SIM M95\Code MPLabIDE 8.92\PIC24EP512GP806\M95\M95.h" Line 110(6,17): Function not void and does not return a value  serialEvent
+>>> Warning 208 "D:\Do An Tot Nghiep\Code Module SIM M95\Code MPLabIDE 8.92\PIC24EP512GP806\M95\M95.h" Line 110(6,17): Function not void and does not return a value  serialEvent
+>>> Warning 208 "D:\Do An Tot Nghiep\Code Module SIM M95\Code MPLabIDE 8.92\PIC24EP512GP806\M95\M95.h" Line 110(6,17): Function not void and does not return a value  serialEvent
+>>> Warning 206 "M95.c" Line 764(1,1): Variable of this data type is never greater than this constant
+>>> Warning 206 "M95.c" Line 764(1,1): Variable of this data type is never greater than this constant
+>>> Warning 203 "M95.c" Line 995(1,1): Condition always TRUE
+>>> Warning 216 "M95.c" Line 1064(1,2): Interrupts disabled during call to prevent re-entrancy:  (modbusEnableTimeout)
+>>> Warning 216 "M95.c" Line 1064(1,2): Interrupts disabled during call to prevent re-entrancy:  (modbusCalcCrc)
+>>> Warning 202 "D:\Do An Tot Nghiep\Code Module SIM M95\Code MPLabIDE 8.92\PIC24EP512GP806\M95\M95.h" Line 42(2,7): Variable never used:   uart3
+>>> Warning 202 "D:\Do An Tot Nghiep\Code Module SIM M95\Code MPLabIDE 8.92\PIC24EP512GP806\M95\M95.h" Line 62(6,20): Variable never used:   stringComplete
+>>> Warning 202 "D:\Do An Tot Nghiep\Code Module SIM M95\Code MPLabIDE 8.92\PIC24EP512GP806\M95\M95.h" Line 64(5,18): Variable never used:   reconnectFlag
+>>> Warning 202 "D:\Do An Tot Nghiep\Code Module SIM M95\Code MPLabIDE 8.92\PIC24EP512GP806\M95\M95.h" Line 80(7,9): Variable never used:   at
+>>> Warning 202 "D:\Do An Tot Nghiep\Code Module SIM M95\Code MPLabIDE 8.92\PIC24EP512GP806\M95\M95.h" Line 81(7,18): Variable never used:   strresponse
+>>> Warning 202 "D:\Do An Tot Nghiep\Code Module SIM M95\Code MPLabIDE 8.92\PIC24EP512GP806\M95\M95.h" Line 85(6,18): Variable never used:   finishString
+>>> Warning 202 "D:\Do An Tot Nghiep\Code Module SIM M95\Code MPLabIDE 8.92\PIC24EP512GP806\M95\M95.h" Line 104(16,22): Variable never used:   delay1
+>>> Warning 202 "D:\Do An Tot Nghiep\Code Module SIM M95\Code MPLabIDE 8.92\PIC24EP512GP806\M95\M95.h" Line 104(28,34): Variable never used:   delay2
+>>> Warning 202 "D:\Do An Tot Nghiep\Code Module SIM M95\Code MPLabIDE 8.92\PIC24EP512GP806\M95\modbus_485.h" Line 85(83,98): Variable never used:   numOfChannelRTD
+>>> Warning 202 "D:\Do An Tot Nghiep\Code Module SIM M95\Code MPLabIDE 8.92\PIC24EP512GP806\M95\modbus_485.h" Line 103(16,24): Variable never used:   dataHigh
+>>> Warning 202 "D:\Do An Tot Nghiep\Code Module SIM M95\Code MPLabIDE 8.92\PIC24EP512GP806\M95\modbus_485.h" Line 103(29,36): Variable never used:   dataLow
+>>> Warning 202 "D:\Do An Tot Nghiep\Code Module SIM M95\Code MPLabIDE 8.92\PIC24EP512GP806\M95\modbus_485.h" Line 106(16,20): Variable never used:   time
+>>> Warning 202 "D:\Do An Tot Nghiep\Code Module SIM M95\Code MPLabIDE 8.92\PIC24EP512GP806\M95\modbus_485.h" Line 108(15,18): Variable never used:   tam
+>>> Warning 202 "M95.c" Line 167(13,16): Variable never used:   DUP
+>>> Warning 202 "M95.c" Line 169(13,19): Variable never used:   Retain
+>>> Warning 202 "M95.c" Line 759(17,26): Variable never used:   c_message
+      Memory usage:   ROM=5%      RAM=2% - 3%
+      0 Errors,  28 Warnings.
+Build Successful.

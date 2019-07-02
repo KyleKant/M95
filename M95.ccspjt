@@ -1,0 +1,16 @@
+[PROJECT]
+Target=M95.hex
+Processor_Text=PIC24EP512GP806
+CCSVersion=5.015
+Compiler=PCD
+[Target Data]
+FileList=M95.c
+[Directories]
+Include=C:\PROGRAM FILES\MICROCHIP\THIRD PARTY\PICC\devices\;C:\PROGRAM FILES\MICROCHIP\THIRD PARTY\PICC\drivers\;D:\Folder Cai Dat\MPLabIDEv8.92\Microchip\Third Party\PICC\Devices\;D:\Folder Cai Dat\MPLabIDEv8.92\Microchip\Third Party\PICC\Drivers\
+[M95.c]
+Type=4
+[mru-list]
+1=M95.c
+[Units]
+Count=1
+1=M95 (main)

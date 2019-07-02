@@ -1,0 +1,456 @@
+W0      @SCRATCH
+W0L     _RETURN_
+W0 -W1  @READ_ROM_MEMORY.P1
+W0 -W1  @ADDFF.P2
+W0 -W3  @MULS6464.P3
+W0 -W1  @DIVFF.P4
+W0 -W1  @DIV3232B.P5
+W0 -W3  @DIVS6464.P6
+W0      @PRINTFD16_57600_29202_29204.P7
+W0 -W1  @DIVS3232A.P8
+W0      @delay_us1.P9
+W0 -W3  @SI64TOF48.P10
+W0 -W2  @MULS4848.P11
+W0L     @SPRINTF.P12
+W0 -W2  @DIVS4848.P13
+W0 -W1  @MUL3232.P14
+W0      @delay_ms1.P15
+W0 -W3  @DIVFF64.P16
+W0 -W2  @MULFF48.P17
+W0 -W1  @MULS3232.P18
+W0 -W1  @PRINTFD32_57600_29202_29204.P19
+W0      @PRINTFD16_1645.P20
+W0      @SITOF.P21
+W0 -W2  @DIVFF48.P22
+W0      @PRINTF_X_57600_29202_29204.P23
+W0 -W2  @ADDFF48.P24
+W0 -W3  @SI64TOF64.P25
+W0 -W1  @MULFF.P26
+W0 -W3  @ADDFF64.P27
+W0 -W3  @MULFF64.P28
+W1      @SCRATCH
+W1      @WRITE_PACKED_MEMORY.P1
+W1      @READ_PACKED_MEMORY.P2
+W1      @PRINTF_X_57600_29202_29204.P3
+W2      @WRITE_PACKED_MEMORY.P1
+W2      @READ_PACKED_MEMORY.P2
+W2 -W3  @MUL3232.P3
+W2 -W3  @DIVS3232A.P4
+W2 -W3  @DIVFF.P5
+W2 -W3  @MULS3232.P6
+W2 -W3  @MULFF.P7
+W2 -W3  @DIV3232B.P8
+W2 -W3  @ADDFF.P9
+W2      @READ_ROM_MEMORY.P10
+W3 -W5  @ADDFF48.P1
+W3      @WRITE_PACKED_MEMORY.P2
+W3 -W5  @MULFF48.P3
+W3      @READ_ROM_MEMORY.P4
+W3 -W5  @DIVFF48.P5
+W3      @READ_PACKED_MEMORY.P6
+W3 -W5  @DIVS4848.P7
+W3 -W5  @MULS4848.P8
+W4      @PRINTFD16_57600_29202_29204.P1
+W4 -W7  @DIVFF64.P2
+W4 -W7  @ADDFF64.P3
+W4 -W7  @DIVS6464.P4
+W4 -W7  @MULFF64.P5
+W4      @PRINTFD16_1645.P6
+W4      @PRINTFD32_57600_29202_29204.P7
+W4 -W7  @MULS6464.P8
+A85.0   C1OUT
+A85.1   C1ENV
+A8D.0   C2OUT
+A8D.1   C2ENV
+A95.0   C3OUT
+A95.1   C3ENV
+1000-1001 rs232_errors
+1002-1003 UPPER_TICKS_1
+1004-1005 UPPER_TICKS_2
+1006-1007 UPPER_TICKS_3
+1008-1108 uart3
+1109.0  stringComplete
+1109.1  tcpFlag
+1109.2  reconnectFlag
+1109.3  mqttQuery
+1109.4  subTopicFlag
+1109.5  pubTopicFlag
+1109.6  messageFlag
+1109.7  finishString
+110A-110B mqttClient
+110C-120B inputString
+120C-120D index
+120E-120F subTopic
+1210-1211 pubTopic
+1212-1213 message
+1214-1259 json
+125A-125B mqttHost
+125C-125D mqttPort
+125E-125F at
+1260-1261 strresponse
+1262-1263 connectionAcknowledgement
+1264.0  mqttFlag
+1264.1  pingFlag
+1264.2  modbusTimeoutEnable
+1264.3  modbusTimeoutEnabled
+1264.4  modbusSerialNew
+1264.5  modbusTimeoutOK
+1264.6  modbusQuery
+1264.7  sendMessageComplete
+1265    modbusSerialState
+1266-1269 len
+126A-126D lengthLocal
+126E-1271 messageLength
+1272-1273 protocolVersion
+1274-1275 gsmResponse
+1276-1277 gsmResponseFlag
+1278-1279 modemStatus
+127A-127B tcpStatus
+127C-127D tcpStatusPrev
+127E-127F gsmSendResponse
+1280-1281 lassMessageID
+1282-1283 tcpATErrorCount
+1284-1287 keepAliveTimeout
+1288-128B pingPrevTicks
+128C-128D packetType
+128E-1291 delay1
+1292-1295 delay2
+1296-1297 reply
+1298-12FB t_topic
+12FC-13FB t_message
+13FC-143F modbusRx
+1440-1441 modbusSerialCrc
+1442    numOfChannelRTD
+1443    crcHigh
+1444-1447 modbusSerialWait
+1448    crcLow
+1449    caseSend
+144A.0  modbusResponseOK
+144B    numOfReg
+144C-1453 dataHigh
+1454-145B dataLow
+145C-145F time
+1460-1463 tam
+1464    stack
+1466-1467 strtok.save
+1468-146B _Randseed
+146C-146D __DYNAMIC_HEAD
+146E-1475 temp
+1476-1477 @sprintf_string
+1478-1479 tcpInit.currentTicks
+1478-147B pingRequest.currentTicks
+1478    modbusReadHoldingRegRsp.address
+1478-1479 messageProcessing.c_topic
+1479    modbusReadHoldingRegRsp.func
+147A-147B modbusReadHoldingRegRsp.startAddress
+147A-147B messageProcessing.c_message
+147A-147B tcpInit.commandAT
+147C-147D modbusReadHoldingRegRsp.quality
+147C    mqttPublish.DUP
+147C-147D tcpInit.strrep
+147C-147D messageProcessing.c_msg
+147C    mqttSubscribe.DUP
+147D    mqttSubscribe.subQoS
+147D    mqttPublish.QoS
+147E-1481 tcpInit.@STRPARAM
+147E-147F mqttSubscribe.messageID
+147E    mqttPublish.Retain
+147E-1481 messageProcessing.@STRPARAM
+147E    modbusReadHoldingRegRsp.startAddressHi
+147F    modbusReadHoldingRegRsp.startAddressLo
+1480-1481 mqttSubscribe.subTopic
+1480-1481 mqttPublish.messageID
+1480    modbusReadHoldingRegRsp.qualityHi
+1481    modbusReadHoldingRegRsp.qualityLo
+1482-1483 mqttSubscribe.localLength
+1482-1483 mqttPublish.topic
+1482-1491 tcpInit.@STRPARAM
+1484-1485 mqttPublish.message
+1486-1487 strcmp.s1
+1486-1487 mqttPublish.localLength
+1488-1489 strcmp.s2
+1492-14A7 tcpInit.@STRPARAM
+14A8-14B3 tcpInit.@STRPARAM
+14CC-14CD sendAT.command
+14CC-14CD sendATResponse.command
+14CC-14CD malloc.size
+14CE-14CF sendATResponse.responseStr
+14CE-14D1 sendAT.waitms
+14CE-14CF malloc.node
+14D0-14D1 malloc.new
+14D0-14D3 sendATResponse.waitms
+14D2-14D3 malloc.nsize
+14D2-14D3 sendAT.currentTicks
+14D4-14D5 sendATResponse.currentTicks
+14D8-14D9 insert_node_after.place
+14DA-14DB update_node.node
+14DA-14DB insert_node_after.node
+14DC-14DD create_node.size
+14DC-14DD update_node.size
+14DE-14DF @SET_TICKS_1.P1
+14DE-14DF create_node.ptr
+14DE-14DF serialEvent.iteraction
+14E0-14E1 create_node.result
+14E0    serialEvent.inchar
+14E1.0  serialEvent.nextLengthByte
+14E2-14F1 serialEvent.@STRPARAM
+14F2-14F3 serialEvent.mqttControlPacketType
+14F4-14F5 serialEvent.DUP
+14F6-14F7 serialEvent.QoS
+14F8-14F9 serialEvent.Retain
+14FA-14FD serialEvent.multiplier
+14FE    serialEvent.cchar
+1500-1503 serialEvent.temp
+1504-1505 serialEvent.topicLength
+1506-1507 serialEvent.publishIndex
+1508-1509 serialEvent.messageStart
+150A-150B serialEvent.messageID
+150C-150D serialEvent.packetID
+150E-150F serialEvent.packetID
+1510-1511 serialEvent.packetID
+1512-1513 serialEvent.packetID
+1514-1515 serialEvent.messageID
+1516-1517 serialEvent.messageID
+1534    publishREL.DUP
+1534-1535 publishCOMP.messageID
+1534-1535 connectReturnCode.ack
+1534-1535 strstr.s1
+1534-1535 mqttConnect.mqttClient
+1534-1535 publishACK.messageID
+1534-1535 publishREC.messageID
+1536-1537 publishREL.messageID
+1536-153C mqttConnect.protocolName
+1536-1537 strstr.s2
+1538-1539 strstr.s
+153A-153B strstr.t
+153E-153F mqttConnect.localLength
+1544-1547 sendLength.length
+1548-1549 sendUTF8String.string
+1548.0  sendLength.lengthFlag
+154A-154B sendUTF8String.lengthString
+154E-154F strlen.s
+1550-1551 strlen.sc
+15E0    interruptReceiveModbus.c
+15E2    modbusCalcCrc.data
+15E2    modbusEnableTimeout.enable
+15E3    modbusCalcCrc.mIndex
+15E6-15E7 @SET_TICKS_3.P1
+CF80-CFFF Stack
+
+ROM Allocation:
+000200  modbus_auchCRCHi.call
+00021C  modbus_auchCRCHi.data
+0002C8  modbus_auchCRCLo.call
+0002E4  modbus_auchCRCLo.data
+000390  @const1546.call
+0003B6  @const1549.call
+0003C6  @const1551.call
+0003D8  @const1552.call
+0003E6  @const1553.call
+000400  @const1554.call
+000418  @const1555.call
+000434  @const1556.call
+00044A  @const1558.call
+00045E  @const1559.call
+00047E  @const1560.call
+00048C  @const1561.call
+0004AC  @const1562.call
+0004C2  @const1563.call
+0004D6  @const1564.call
+0004EA  @const1565.call
+000500  @const1566.call
+000514  @const1567.call
+000528  @const1568.call
+000544  @const1569.call
+00055C  @const1570.call
+000576  @const1571.call
+00058E  @const1580.call
+0005AC  @const1584.call
+0005CE  @const1585.call
+0005F0  @const1586.call
+000612  @const1587.call
+000634  @const1591.call
+000652  @const1592.call
+000676  @const1594.call
+000692  @const1597.call
+0006AE  @const1598.call
+0006CC  @const1599.call
+0006E2  @const1600.call
+0006FE  @const1603.call
+000720  @const1605.call
+00073C  @const1606.call
+00075E  @const1609.call
+000782  @const1612.call
+0007A6  @const1613.call
+0007C8  @const1614.call
+0007EA  @const1617.call
+00080C  @const1622.call
+00082E  @const1627.call
+000854  @const1628.call
+000874  @const1629.call
+00089C  @const1630.call
+0008C6  @const1634.call
+0008E6  @const1635.call
+00092A  @const1636.call
+000968  @const1637.call
+0009A6  @const1638.call
+0009E8  @const1639.call
+000A22  @const1640.call
+000A48  @const1642.call
+000A62  @const1647.call
+000A82  @const1651.call
+000A9E  @const1659.call
+000AC4  @const1660.call
+000AE6  @const1661.call
+000B00  @const1663.call
+000B1A  @const1665.call
+000B34  @const1667.call
+000B4E  @const1670.call
+000B6A  @const1679.call
+000B88  @const1696.call
+000BA4  @const1699.call
+000BC0  @const1700.call
+000BE2  @const1704.call
+000BFE  @const1705.call
+000C1A  @const1706.call
+000C3A  @const1707.call
+000C5E  @const1708.call
+000C82  @const1714.call
+000C92  @const1716.call
+000CAC  @const1717.call
+000CBE  @const1718.call
+000CD2  @const1719.call
+000CEA  @const1720.call
+000D02  @const1721.call
+000D1E  @const1723.call
+000D3A  @const1724.call
+000D54  @const1725.call
+000D6E  @const1726.call
+000D88  @const1727.call
+000DA0  @const1728.call
+000DB6  @const1729.call
+000DD0  @const1730.call
+000DE8  @const1731.call
+000DFC  @const1733.call
+000E1E  @const1735.call
+000E36  @const1737.call
+000E50  @const1739.call
+000E6C  @const1740.call
+000E7E  @const1741.call
+000EA6  @const1742.call
+000EB8  @const1743.call
+000EDC  @const1744.call
+000EF6  @const1751.call
+000F18  @const1752.call
+000F28  @const1754.call
+000F48  @const1755.call
+000F58  @const1756.call
+000F78  @const1773.call
+000F90  @const1778.call
+000FAE  @const1780.call
+000FC8  @const1782.call
+000FE0  @const1783.call
+001000  @const1786.call
+00102C  @const1787.call
+001054  @const1788.call
+001072  @const1792.call
+001090  @const1793.call
+0010B4  @GETCH_BIU_3
+0010C2  @SET_TICKS_3
+0010D8  modbusEnableTimeout
+0010E6  modbusCalcCrc
+001106  interruptReceiveModbus
+0011BA  create_node
+0011DE  insert_node_after
+001214  update_node
+001224  malloc
+0012DE  @SPRINTF
+0012EC  @delay_ms1
+001300  powerOnM95
+00132C  @SET_TICKS_1
+001342  @GET_TICKS_1
+001376  @GETCH_BIU_2
+001384  strstr
+0013C8  @PRINTF_X_57600_29202_29204
+0013FC  @DIV3232B
+001440  @PRINTFD32_57600_29202_29204
+001554  strlen
+001578  sendLength
+001620  @PRINTFD16_57600_29202_29204
+001716  sendUTF8String
+0017D0  mqttConnect
+001AF0  autoConnect
+001AFA  @MULS3232
+001B3C  connectReturnCode
+001C4E  publishACK
+001CCE  publishREC
+001D4E  publishREL
+001DDA  publishCOMP
+001E5A  serialEvent
+002DAA  sendAT
+002E20  sendATResponse
+002EB8  tcpInit
+0034E6  begin
+0034EC  strcmp
+00352A  messageProcessing
+0036A2  mqttAvailable
+0036AA  generateMessageID
+0036C8  mqttSubscribe
+003782  @PRINTFD16_1645
+003888  mqttPublish
+0039EA  @GET_TICKS_3
+003A1E  modbusTimeoutNow
+003A58  modbusCheckTimeout
+003A76  modbus_kbhit
+003A9E  modbusReadHoldingRegRsp
+003C9E  @GET_TICKS_2
+003CD2  @MUL3232
+003D02  pingRequest
+003D8C  mqttProcessing
+003DAA  MAIN
+003DAA  @cinit1
+003EC6  @cinit2
+0136  StrtoulGO
+0136  StrtolGO
+
+Project Directory:
+    D:\Do An Tot Nghiep\Code Module SIM M95\Code MPLabIDE 8.92\PIC24EP512GP806\M95\
+
+Project Files:
+    M95.c                                                   [18-Jun-19 06:31  CRC=5E8D9D51]
+    configPic.h                                             [10-May-19 16:19  CRC=10A4F03D]
+    ..\..\..\..\..\Folder Cai Dat\MPLabIDEv8.92\Microchip\Third Party\PICC\Devices\24ep512gp806.h [01-Apr-19 14:28  CRC=E974CD80]
+    M95.h                                                   [14-Jun-19 20:21  CRC=3A599B5C]
+    ..\..\..\..\..\Folder Cai Dat\MPLabIDEv8.92\Microchip\Third Party\PICC\Drivers\stdbool.h [21-May-12 10:29  CRC=815AEDE8]
+    modbus_485.h                                            [10-Jun-19 10:28  CRC=20B3F8E5]
+    ..\..\..\..\..\Folder Cai Dat\MPLabIDEv8.92\Microchip\Third Party\PICC\Drivers\stdlib.h [08-Jun-11 14:39  CRC=0B6669CF]
+    ..\..\..\..\..\Folder Cai Dat\MPLabIDEv8.92\Microchip\Third Party\PICC\Drivers\stddef.h [16-Jul-10 09:27  CRC=897CEC6C]
+    ..\..\..\..\..\Folder Cai Dat\MPLabIDEv8.92\Microchip\Third Party\PICC\Drivers\string.h [04-Apr-19 14:04  CRC=23EDEC8F]
+    ..\..\..\..\..\Folder Cai Dat\MPLabIDEv8.92\Microchip\Third Party\PICC\Drivers\ctype.h [03-Jan-08 13:55  CRC=2D1F019F]
+    ..\..\..\..\..\Folder Cai Dat\MPLabIDEv8.92\Microchip\Third Party\PICC\Drivers\stdint.h [30-Dec-08 09:01  CRC=9F7F640F]
+    ..\..\..\..\..\Folder Cai Dat\MPLabIDEv8.92\Microchip\Third Party\PICC\Drivers\stdio.h [31-Jul-07 13:24  CRC=4E4534F4]
+    ..\..\..\..\..\Folder Cai Dat\MPLabIDEv8.92\Microchip\Third Party\PICC\Drivers\stdlibm.h [24-Feb-12 09:58  CRC=9523303D]
+    ..\..\..\..\..\Folder Cai Dat\MPLabIDEv8.92\Microchip\Third Party\PICC\Drivers\memmgmt.c [24-Feb-12 09:47  CRC=E82E24A3]
+
+Source signature=6E443426
+
+Units:
+    M95 (main)
+
+Compiler Settings:
+    Processor:      PIC24EP512GP806
+    Pointer Size:   16
+    ADC Range:      0-1023
+    Opt Level:      9
+    Short,Int,Long: SIGNED: 8,16,32
+    Float,Double:   32,64
+
+Output Files:
+    Errors:      M95.err
+    INHX8:       M95.hex
+    Symbols:     M95.sym
+    List:        M95.lst
+    Debug/COFF:  M95.cof
+    Project:     M95.ccspjt
+    Call Tree:   M95.tre
+    Statistics:  M95.STA
